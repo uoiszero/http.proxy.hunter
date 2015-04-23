@@ -1,0 +1,9 @@
+{
+  "name": "http-proxy-hunter",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "*",
+    "lodash": "*",
+    "async": "*"
+  }
+}
